@@ -16,7 +16,7 @@ location:         'Based at Yau MSC, Beijing'
 
 
 # Parameters
-contact:           'Name'
+contact:           '<Name>'
 contactaddr:       'xxx@mail.tsinghua.edu.cn'
 
 
