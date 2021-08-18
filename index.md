@@ -26,7 +26,7 @@ detail: [page]({{ site.baseurl }}/program).
   *italic*
 
 
-<iframe src="https://teamup.com/ksf65f4xmpybah5e1x?showProfileAndInfo=0&showSidepanel=1&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" style="width: 100%, height: 800px, border: 1px solid #cccccc" frameborder="0" />
+<iframe src="https://teamup.com/ksf65f4xmpybah5e1x?view=m&showHeader=0&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=1&showViewSelector=0&showMenu=0&weekStartDay=mo&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" style="width: 400px, height: 800px" frameborder="0" />
 
   
 <p>
