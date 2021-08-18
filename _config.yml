@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'The Mathematics of Quantum Information'
+tagline:          'A workshop at the University of Siegen'
+description:      'March 18-21, 2019'
+location:         'University of Siegen'
+url:              https://MoQIT.github.io
+baseurl:          /MoQI-2019
+
+
+exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
+#include: [ "SimplicialSurfaces.pdf" ]
