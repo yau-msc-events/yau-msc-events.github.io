@@ -5,8 +5,9 @@ title: Seminars
 
 * Seminar X
 
-** Topic
-** Organizers
+Topic:
+
+Organizers:
 
 * Seminar Y
 * Seminar Z
