@@ -9,13 +9,17 @@ Topic:
 
 Organizers:
 
-* Seminar Y
+
+
+### Seminar Y
 
 Topic:
 
 Organizers:
 
-* Seminar Z
+
+
+### Seminar Z
 
 Topic:
 
