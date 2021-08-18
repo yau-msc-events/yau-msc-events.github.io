@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# {{ site.title }}
+<!-- # {{ site.title }} -->
 
 <!-- {{ site.description }} -->
 
