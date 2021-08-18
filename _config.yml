@@ -1,15 +1,14 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# markdown:         kramdown
+# highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 
 # Setup
-title:            'Joint seminars'
-description:      'Between YMSC in Beijing and international'
-tagline:          'Organized between Yau MSC, Tsinghua University, and international partners'
-location:         ''
+title:            'Seminar hub'
+description:      'Coordinating joint international seminars in mathematical sciences'
+location:         'Based at Yau MSC, Beijing'
 url:              https://w-donovan.github.io
 baseurl:          /
 
