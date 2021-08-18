@@ -14,5 +14,4 @@ url:              https://w-donovan.github.io
 baseurl:          /
 
 
-exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
-#include: [ "SimplicialSurfaces.pdf" ]
+exclude: [ "README.md" ]
