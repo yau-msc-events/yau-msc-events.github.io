@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'The Mathematics of Quantum Information'
-tagline:          'A workshop at the University of Siegen'
-description:      'March 18-21, 2019'
-location:         'University of Siegen'
-url:              https://MoQIT.github.io
-baseurl:          /MoQI-2019
+title:            'Test'
+tagline:          'Testing'
+description:      'Tested'
+location:         ''
+url:              https://w-donovan.github.io
+baseurl:          /
 
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
