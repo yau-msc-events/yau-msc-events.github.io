@@ -3,7 +3,7 @@ layout: page
 title: Seminars
 ---
 
-* Seminar X
+### Seminar X
 
 Topic:
 
