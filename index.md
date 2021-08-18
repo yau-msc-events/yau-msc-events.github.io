@@ -5,9 +5,9 @@ title: Home
 
 # {{ site.title }}
 
-{{ site.description }}
+<!-- {{ site.description }} -->
 
-{{ site.location }}
+<!-- {{ site.location }} -->
 
 <!-- comment -->
 
