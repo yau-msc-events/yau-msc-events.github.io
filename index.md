@@ -12,3 +12,7 @@ This website is to support joint seminars between [Yau MSC](https://ymsc.tsinghu
 * University Z
 
 For more information, please contact [{{ site.contact }}](mailto:{{ site.contactaddr }}).
+
+        <a href="mailto:{{ site.contactaddr }}">
+          {{ site.contact }}
+        </a>
