@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Test'
-tagline:          'Testing'
-description:      'Tested'
+title:            'Joint international math seminars'
+tagline:          ''
+description:      'Organized between Yau MSC, Tsinghua University, and international partners'
 location:         ''
 url:              https://w-donovan.github.io
 baseurl:          /
