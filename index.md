@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/forms.css">
+
+
 <!-- # {{ site.title }} -->
 
 <!-- {{ site.description }} -->
