@@ -20,7 +20,7 @@ This website is to informally organize joint international seminars between [Yau
 
 detail: [page]({{ site.baseurl }}/program).
 
-## section
+## Calendar
 
 <!-- **bold**  *italic* -->
 
