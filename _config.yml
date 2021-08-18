@@ -5,12 +5,19 @@
 # Permalinks
 # permalink:        pretty
 
-# Setup
+# Site location
+url:              https://w-donovan.github.io
+baseurl:          /
+
+# Description text
 title:            'Seminar hub'
 description:      'Coordinating joint international seminars in mathematical sciences'
 location:         'Based at Yau MSC, Beijing'
-url:              https://w-donovan.github.io
-baseurl:          /
+
+
+# Parameters
+contact:           'Name'
+contactaddr:       'xxx@mail.tsinghua.edu.cn'
 
 
 exclude: [ "README.md" ]
