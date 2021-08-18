@@ -6,13 +6,12 @@ title: Home
 
 
 
-<!-- # {{ site.title }} -->
+# {{ site.title }}
 
-<!-- {{ site.description }} -->
+{{ site.description }}
 
 <!-- {{ site.location }} -->
 
-<!-- comment -->
 
 This website is to informally organize joint international seminars between Yau MSC, Tsinghua University, and ...
 
@@ -21,7 +20,7 @@ This website is to informally organize joint international seminars between Yau 
 * z
 
 
-<iframe src="https://teamup.com/ksf65f4xmpybah5e1x?view=m&showHeader=0&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=1&showViewSelector=0&showMenu=0&weekStartDay=mo&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" style="width: 400%, height: 800px" frameborder="0" />
+<!-- <iframe src="https://teamup.com/ksf65f4xmpybah5e1x?view=m&showHeader=0&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=1&showViewSelector=0&showMenu=0&weekStartDay=mo&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" style="width: 400%, height: 800px" frameborder="0" /> -->
 
 detail: [page]({{ site.baseurl }}/program).
 
@@ -33,7 +32,7 @@ detail: [page]({{ site.baseurl }}/program).
   *italic*
 
 
-<center><iframe src="https://teamup.com/ksf65f4xmpybah5e1x?view=m&showHeader=0&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=1&showViewSelector=0&showMenu=0&weekStartDay=mo&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1"  frameborder="0" scrolling="no" /></center>
+<center><iframe src="https://teamup.com/ksf65f4xmpybah5e1x?view=m&showHeader=0&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=1&showViewSelector=0&showMenu=0&weekStartDay=mo&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1"  frameborder="0" scrolling="no"  width="800" height="600" /></center>
 
 *
 *
