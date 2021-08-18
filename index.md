@@ -9,23 +9,17 @@ title: Home
 
 <!-- ## The idea of this workshop series in general -->
 
-The combination of quantum physics with information theory has posed
-new challenges for physicists and mathematicians. To further develop
-the field, researchers need to learn methods and understand open
-challenges in an interdisciplinary manner. On the mathematical side,
-results in algorithmic algebra, convex optimization, and multilinear
-algebra provide novel tools for tackling physical problems. In
-physics, open questions in entanglement theory, information processing
-and many-body systems are waiting for the mathematical advances to
-solve them. This workshop aims at bringing together researchers from
-both communities to exchange ideas and methods in an informal manner.
+description
 
-More detailed information can be found on [the program page]({{ site.baseurl }}/program).
+detail: [page]({{ site.baseurl }}/program).
 
-## Invited speakers
+## section
 
-* **Timo de Wolff** (TU Braunschweig) <br/>
-  *New Dependencies of Hierarchies in Polynomial Optimization*
+* **bold** ... <br/>
+  *italic*
+* **bold** ... <br/>
+  *italic*
+  
 * **Lars Grasedyck** (RWTH Aachen University) <br/>
   *Numerical methods for hierarchical low rank tensor*
 * **Barbara Kraus** (U Innsbruck, Austria) <br/>
