@@ -5,7 +5,7 @@ title: Seminars
 
 ### Mirror symmetry working group
 
-Topic:
+Topic: Research discussions between researchers in Beijing and UK.
 
 Organizers: Will Donovan, Mauricio Romo, Lucy Smith, Weilin Su
 
