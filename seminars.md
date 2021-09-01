@@ -3,11 +3,11 @@ layout: page
 title: Seminars
 ---
 
-### Seminar X
+### Mirror symmetry working group
 
 Topic:
 
-Organizers:
+Organizers: Will Donovan, Mauricio Romo, Lucy Smith, Weilin Su
 
 
 
