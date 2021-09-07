@@ -18,6 +18,6 @@ location:         'Based at Yau MSC, Beijing'
 # Parameters
 contact:           'Name'
 contactaddr:       'xxx@mail.tsinghua.edu.cn'
-
+calendarurl:       'https://teamup.com/ks58v9swjiomt7ii2k'
 
 exclude: [ "README.md" ]
