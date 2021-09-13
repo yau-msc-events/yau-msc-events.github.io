@@ -11,11 +11,11 @@ Organizers: Will Donovan, Mauricio Romo, Lucy Smith, Weilin Su
 
 
 
-### Seminar Y
+### Mirror symmetry working group
 
-Topic:
+Topic: Discussions on the monodromy representation for Appell's system
 
-Organizers:
+Organizers: Will Donovan, Mauricio Romo, Weilin Su
 
 
 
