@@ -24,7 +24,7 @@ Talks:
 
 Topic: Birational geometry, moduli spaces, Hall algebras ...
 
-Organizers: Zhang Nantao, ...
+Organizers: Zhang Nantao, Hao Zhang
 
 
 
