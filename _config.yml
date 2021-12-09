@@ -6,7 +6,7 @@
 # permalink:        pretty
 
 # Site location
-url:              https://w-donovan.github.io
+url:              https://yau-msc-events.github.io
 baseurl:          /
 
 # Description text
@@ -16,8 +16,8 @@ location:         'Based at Yau MSC, Beijing'
 
 
 # Parameters
-contact:           'Name'
-contactaddr:       'xxx@mail.tsinghua.edu.cn'
+contact:           'Will Donovan'
+contactaddr:       'donovan@mail.tsinghua.edu.cn '
 calendarurl:       'https://teamup.com/ks58v9swjiomt7ii2k'
 
 exclude: [ "README.md" ]
