@@ -3,7 +3,7 @@ layout: page
 title: Seminars
 ---
 
-### Mirror symmetry working group
+### MS: Mirror symmetry working group
 
 Topic: Research discussions between researchers in Beijing and UK.
 
@@ -20,7 +20,7 @@ Talks:
 
 
 
-### Enumerative geometry learning seminar 
+### EG: Enumerative geometry learning seminar 
 
 Topic: Birational geometry, moduli spaces, Hall algebras ...
 
@@ -28,7 +28,7 @@ Organizers: Zhang Nantao, Hao Zhang
 
 
 
-### Derived categories learning seminar
+### DC: Derived categories learning seminar
 
 Topic: Derived category, DG categories, motivic methods ...
 
