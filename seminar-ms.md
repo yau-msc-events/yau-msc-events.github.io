@@ -8,7 +8,7 @@ Topic: Research discussions between researchers in Beijing and UK.
 
 Organizers: Will Donovan, Mauricio Romo, Lucy Smith, Weilin Su
 
-## Talks
+# Talks
 
 - Webs of flops and mirror symmetry
 
