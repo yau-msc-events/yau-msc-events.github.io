@@ -3,7 +3,7 @@ layout: seminarpage
 title: Derived categories
 ---
 
-### DC: Derived categories learning seminar
+### Derived categories learning seminar
 
 Topic: Derived category, DG categories, motivic methods ...
 
