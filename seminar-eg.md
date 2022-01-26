@@ -1,6 +1,6 @@
 ---
 layout: seminarpage
-title: Enumerative geometry seminar
+title: Enumerative geometry
 code: EG
 ---
 
