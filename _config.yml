@@ -10,8 +10,8 @@ url:              http://yau-msc-events.github.io
 baseurl:          /
 
 # Description text
-title:            'Yau MSC events hub'
-description:      'Coordinating joint international events in mathematical sciences'
+title:            'Events Hub'
+description:      'International seminars in mathematical sciences'
 location:         'Based at <a href="http://ymsc.tsinghua.edu.cn/">Yau MSC</a>, Beijing'
 
 
