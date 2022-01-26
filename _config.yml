@@ -6,18 +6,19 @@
 # permalink:        pretty
 
 # Site location
-url:              https://yau-msc-events.github.io
+url:              http://yau-msc-events.github.io
 baseurl:          /
 
 # Description text
 title:            'Yau MSC events hub'
 description:      'Coordinating joint international events in mathematical sciences'
-location:         'Based at <a href="https://ymsc.tsinghua.edu.cn/">Yau MSC</a>, Beijing'
+location:         'Based at <a href="http://ymsc.tsinghua.edu.cn/">Yau MSC</a>, Beijing'
 
 
 # Parameters
 contact:           'Will Donovan'
-contactaddr:       'donovan@mail.tsinghua.edu.cn '
-calendarurl:       'https://teamup.com/ks58v9swjiomt7ii2k'
+contactaddr:       'donovan@mail.tsinghua.edu.cn'
+contacturl:        'http://w-donovan.github.io'
+calendarurl:       'http://teamup.com/ks58v9swjiomt7ii2k'
 
 exclude: [ "README.md" ]
