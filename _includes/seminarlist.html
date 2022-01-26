@@ -10,7 +10,7 @@
   {% if node.layout == "seminarpage" %}
    <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
    Code: {{ node.code }}
-   <br>
+   <p></p>
   {% endif %}
  {% endif %}
 {% endfor %}
