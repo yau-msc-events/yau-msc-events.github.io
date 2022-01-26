@@ -1,6 +1,7 @@
 ---
 layout: seminarpage
 title: Mirror symmetry working group
+code: MS
 ---
 
 Topic: Research discussions between researchers in Beijing and UK.
