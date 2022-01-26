@@ -6,7 +6,7 @@ code: DC
 
 Topic: Derived category, DG categories, motivic methods ...
 
-Organizers: Lin Xun, Zhang Shizhuo
+Organizers: [Lin Xun](http://linlinsai.github.io/), Zhang Shizhuo
 
 # Talks
 
