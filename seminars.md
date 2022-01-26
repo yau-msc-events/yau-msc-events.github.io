@@ -3,6 +3,5 @@ layout: seminarlist
 title: Seminars
 ---
 
-[calendar](./calendar.md) page.
+Events can be found on [calendar](./calendar.md) page, with codes given below.
 
-Please see below:
