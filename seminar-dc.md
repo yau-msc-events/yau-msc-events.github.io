@@ -7,12 +7,12 @@ Topic: Derived category, DG categories, motivic methods ...
 
 Organizers: Lin Xun, Zhang Shizhuo
 
-### Talks
+## Talks
 
-## Will Donovan (YMSC)
+### Will Donovan (YMSC)
 
 Dec 15 2021
 
-# Semi-orthogonal decompositions
+#### Semi-orthogonal decompositions
 
 The goal is to discuss recent developments in derived categories and related things. I will start with some surveys on semiorthogonal decompositions.
