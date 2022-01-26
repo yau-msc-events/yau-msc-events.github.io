@@ -1,6 +1,6 @@
 ---
 layout: seminarpage
-title: Seminars
+title: Derived categories
 ---
 
 ### DC: Derived categories learning seminar
