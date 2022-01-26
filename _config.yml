@@ -12,7 +12,7 @@ baseurl:          /
 # Description text
 title:            'Yau MSC events hub'
 description:      'Coordinating joint international events in mathematical sciences'
-location:         'Based at [Yau MSC](https://ymsc.tsinghua.edu.cn/), Beijing'
+location:         'Based at <a href="https://ymsc.tsinghua.edu.cn/">Yau MSC</a>, Beijing'
 
 
 # Parameters
