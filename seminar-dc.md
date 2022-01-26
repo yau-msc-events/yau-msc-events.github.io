@@ -1,6 +1,6 @@
 ---
 layout: seminarpage
-title: Derived categories seminar
+title: Derived categories
 code: DC
 ---
 
