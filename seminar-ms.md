@@ -1,6 +1,6 @@
 ---
 layout: seminarpage
-title: Mirror symmetry working group
+title: Mirror symmetry group
 code: MS
 ---
 
