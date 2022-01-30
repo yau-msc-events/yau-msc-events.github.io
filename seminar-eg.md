@@ -4,6 +4,6 @@ title: Enumerative geometry
 code: EG
 ---
 
-Topic: Birational geometry, moduli spaces, Hall algebras ...
+Topic: Curve counting invariants, birational geometry, moduli spaces, Hall algebras
 
-Organizers: Zhang Nantao, Hao Zhang
+Organizers: Will Donovan, Zhang Nantao, Hao Zhang
