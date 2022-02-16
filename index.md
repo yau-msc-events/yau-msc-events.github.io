@@ -9,4 +9,4 @@ Since travel became more difficult following the pandemic, our goal is to build 
 
 Most events are informal seminars or discussions, hosted on Zoom.
 
-For more information, welcome to [make contact](mailto:{{ site.contactaddr }}) with [{{ site.contact }}]({{ site.contacturl }}).
+
