@@ -9,7 +9,7 @@ A learning seminar on generic vanishing.
 Organizer: [Lin Xun](http://linlinsai.github.io/)
 
 
-Suggestions of the related topic are welcome. You are also welcome to add references. If you are interested in giving a presentation of one of the topics, please send "number of the topic, name" to the Wechat group or e-mail lin-x18@mails.tsinghua.edu.cn 
+Suggestions of the related topic are welcome. You are also welcome to add references. If you are interested in giving a presentation of one of the topics, please send "number of the topic, name" to the Wechat group or e-mail [Lin Xun](mailto:lin-x18@mails.tsinghua.edu.cn). 
 
 References:
 
