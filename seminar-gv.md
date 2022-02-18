@@ -36,7 +36,7 @@ References: Fourier--Mukai transforms in algebraic geometry, Chap 9.  D. Huybrec
 Mar 02
 
 ### Hacon's proof of generic vanishing theorems via Fourier-- Mukai transforms for abelian varieties.
-References: [A derived category approach to generic vanishing, J. Reine Angew. Math. 575 (2004), 173–187.] (https://arxiv.org/pdf/math/0308198.pdf)
+References: [A derived category approach to generic vanishing, J. Reine Angew. Math. 575 (2004), 173–187.](https://arxiv.org/pdf/math/0308198.pdf)
 
 ## Su Xiaoyu
 
