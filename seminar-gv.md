@@ -8,15 +8,16 @@ A learning seminar on generic vanishing.
 
 Organizer: [Lin Xun](http://linlinsai.github.io/)
 
+
+Suggestions of the related topic are welcome. You are also welcome to add references. If you are interested in giving a presentation of one of the topics, please send "number of the topic, name" to the Wechat group or e-mail lin-x18@mails.tsinghua.edu.cn 
+
 References:
 
 Schnell, [lectures](http://www.math.stonybrook.edu/~cschnell/pdf/notes/generic-vanishing.pdf) on generic vanishing theorem
 
 Hacon, videos of [lectures](https://www.youtube.com/playlist?list=PL6YRiWyfIQWp81KGy7XWcIJMwmlmnyw52)
 
-Suggestions of the related topic are welcome. You are also welcome to add references. If you are interested in giving a presentation of one of the topics, please send "number of the topic, name" to the Wechat group or e-mail lin-x18@mails.tsinghua.edu.cn 
-
-Time: 02/2022 -- 06/2022, every Wednesday 9:00pm-11:00pm UTC + 8.
+Time: 02-06/2022, every Wednesday 9:00pm-11:00pm UTC+8.
 
 Location: Zoom 849 963 1368
 Code: YMSC
@@ -28,7 +29,6 @@ Code: YMSC
 Feb 23
 
 ### Derived categories and Fourier--Mukai transforms, focus on abelian varieties.
-
 References: Fourier--Mukai transforms in algebraic geometry, Chap 9.  D. Huybrechts.
 
 ## Lin Xun
@@ -36,7 +36,6 @@ References: Fourier--Mukai transforms in algebraic geometry, Chap 9.  D. Huybrec
 Mar 02
 
 ### Hacon's proof of generic vanishing theorems via Fourier-- Mukai transforms for abelian varieties.
-
 References: [A derived category approach to generic vanishing, J. Reine Angew. Math. 575 (2004), 173–187.] (https://arxiv.org/pdf/math/0308198.pdf)
 
 ## Su Xiaoyu
@@ -44,7 +43,7 @@ References: [A derived category approach to generic vanishing, J. Reine Angew. M
 Mar 09
 
 ### Original proof of the generic vanishing theorem. Green, Lazarsfeld.
-
+Test
 References: [Green, M., Lazarsfeld, R. Deformation theory, generic vanishing theorems, and some conjectures of Enriques, Catanese and Beauville. Invent Math 90, 389–407 (1987).](https://link.springer.com/content/pdf/10.1007/BF01388711.pdf)
 
 ## Wen Xueqing
