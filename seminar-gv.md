@@ -43,7 +43,6 @@ References: [A derived category approach to generic vanishing, J. Reine Angew. M
 Mar 09
 
 ### Original proof of the generic vanishing theorem. Green, Lazarsfeld.
-Test
 References: [Green, M., Lazarsfeld, R. Deformation theory, generic vanishing theorems, and some conjectures of Enriques, Catanese and Beauville. Invent Math 90, 389–407 (1987).](https://link.springer.com/content/pdf/10.1007/BF01388711.pdf)
 
 ## Wen Xueqing
@@ -77,7 +76,7 @@ April 6
 
 ### Singularities of theta divisors on principally polarized abelian varieties.
 
-References: [L. Ein and R. Lazarsfeld, Singularities of theta divisors and the birational geometry of irregular varieties, J. Amer. Math. Soc. 10 (1997), no. 1, 243258.] (https://www.ams.org/journals/jams/1997-10-01/S0894-0347-97-00223-3/S0894-0347-97-00223-3.pdf)
+References: [L. Ein and R. Lazarsfeld, Singularities of theta divisors and the birational geometry of irregular varieties, J. Amer. Math. Soc. 10 (1997), no. 1, 243258.](https://www.ams.org/journals/jams/1997-10-01/S0894-0347-97-00223-3/S0894-0347-97-00223-3.pdf)
 
 ## Wang Bin
 
