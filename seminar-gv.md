@@ -17,7 +17,7 @@ Schnell, [lectures](http://www.math.stonybrook.edu/~cschnell/pdf/notes/generic-v
 
 Hacon, videos of [lectures](https://www.youtube.com/playlist?list=PL6YRiWyfIQWp81KGy7XWcIJMwmlmnyw52)
 
-Time: 02-06/2022, every Wednesday 9:00pm-11:00pm UTC+8.
+Time: 02/2022-06/2022, every Wednesday 9:00pm-11:00pm UTC+8.
 
 Location: Zoom 849 963 1368
 Code: YMSC
@@ -29,7 +29,7 @@ Code: YMSC
 Feb 23
 
 ### Derived categories and Fourier--Mukai transforms, focus on abelian varieties.
-References: Fourier--Mukai transforms in algebraic geometry, Chap 9.  D. Huybrechts.
+References: Fourier--Mukai transforms in algebraic geometry, D. Huybrechts. Chap 9.
 
 ## Lin Xun
 
