@@ -1,6 +1,6 @@
 ---
 layout: seminarpage
-title: Algebra of Infrared
+title: Algebra of infrared
 code: IR
 ---
 
