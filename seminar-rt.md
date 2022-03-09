@@ -1,6 +1,6 @@
 ---
 layout: seminarpage
-title: Representation Theory Informal
+title: Rep theory informal
 code: RT
 ---
 
