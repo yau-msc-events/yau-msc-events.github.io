@@ -12,11 +12,14 @@ Organizers: Will Donovan, Mauricio Romo
 
 ## Key references
 
-* [GMW] Algebra of the Infrared: String Field Theoretic Structures in Massive N=(2,2) Field Theory In Two Dimensions
+### GMW
+
+* Algebra of the Infrared: String Field Theoretic Structures in Massive N=(2,2) Field Theory In Two Dimensions
 
 Davide Gaiotto, Gregory W. Moore, Edward Witten
 
 [1506.04087 [hep-th]](https://arxiv.org/abs/1506.04087)
+
 
 * Algebra of the infrared and secondary polytopes
 
