@@ -27,3 +27,12 @@ Feb 24 2022
 This talk is about the paper "Motivic degree zero Donaldson-Thomas invariants" by Kai Behrend, Jim Bryan, Balázs Szendröi. [Arxiv](https://arxiv.org/abs/0909.5088)/[DOI](https://doi.org/10.1007/s00222-012-0408-1)
 
 I will talk about definition of motivic weights, definition of motivic Donaldson-Thomas invariants and sketch of calculation of virtual motive of Hilbert scheme of points.
+
+## Okke van Garderen (Max-Planck Institute)
+
+Mar 17 2022
+
+### Symmetry & vanishing in the DT theory of cDV singularities
+
+Donaldson--Thomas theory was conceived as a method of counting certain sheaves in Calabi-Yau threefolds, which are supposed to encode 'BPS numbers' in string theory. More recent developments have led to broader, refined versions of this theory, which produce motivic or cohomological invariants from moduli spaces of semistable objects in the derived category.
+In this talk I will focus on DT theory for crepant resolutions of compound Du-Val singularities, which include threefold flops, as well as some divisor-to-curve contractions and quotient singularities. I will explain how one can determine the moduli of semistable objects in this setting via a tilting method that is governed by Dynkin diagram combinatorics. Using this, I will show that the motivic incarnations of the BPS numbers vanish for K-theory classes outside an associated root lattice, and exhibit additional symmetries among these invariants. To make this explicit, I will use the example of a dihedral quotient singularity, for which the invariants can be fully calculated.
