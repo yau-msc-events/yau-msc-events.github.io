@@ -36,3 +36,17 @@ Mar 17 2022
 
 Donaldson--Thomas theory was conceived as a method of counting certain sheaves in Calabi-Yau threefolds, which are supposed to encode 'BPS numbers' in string theory. More recent developments have led to broader, refined versions of this theory, which produce motivic or cohomological invariants from moduli spaces of semistable objects in the derived category.
 In this talk I will focus on DT theory for crepant resolutions of compound Du-Val singularities, which include threefold flops, as well as some divisor-to-curve contractions and quotient singularities. I will explain how one can determine the moduli of semistable objects in this setting via a tilting method that is governed by Dynkin diagram combinatorics. Using this, I will show that the motivic incarnations of the BPS numbers vanish for K-theory classes outside an associated root lattice, and exhibit additional symmetries among these invariants. To make this explicit, I will use the example of a dihedral quotient singularity, for which the invariants can be fully calculated.
+
+## Denis Nesterov
+
+Mar 24 2022
+
+### Sheaves, Quasimaps, Maps, (Covers)
+
+We will discuss a wall-crossing between Donaldson-Thomas theory
+of a threefold Surface x Curve and Gromov-Witten theory of a moduli space
+of sheaves on the Surface. The wall-crossing is provided by the notion of
+a quasimap to a moduli space of sheaves and Yang Zhou's theory of
+calibrated tails. The geometry behind this kind of wall-crossings seems to
+be responsible for many correspondences between different enumerative
+theories centred around threefolds of the type Surface x Curve.
