@@ -8,6 +8,8 @@ Topic: Curve counting invariants, birational geometry, moduli spaces, Hall algeb
 
 Organizers: Will Donovan, Zhang Nantao, Hao Zhang
 
+Some talks are posted on [researchseminars.org](https://researchseminars.org/seminar/HubEG).
+
 # Talks
 
 ## Navid Nabijou (Cambridge)
