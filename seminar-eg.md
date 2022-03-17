@@ -50,3 +50,20 @@ a quasimap to a moduli space of sheaves and Yang Zhou's theory of
 calibrated tails. The geometry behind this kind of wall-crossings seems to
 be responsible for many correspondences between different enumerative
 theories centred around threefolds of the type Surface x Curve.
+
+
+## Henry Liu
+
+Mar 31 2022
+
+### Quasimaps and stable pairs
+
+Quasimaps to Hilbert schemes of surfaces S resemble the
+Donaldson-Thomas theory of S times a curve. This correspondence can be
+made precise for the appropriate DT stability chamber, namely the
+so-called Bryan-Steinberg stable pairs. I will explain why BS pairs
+and quasimaps are equivalent whenever they are comparable. Quasimaps
+have been used recently to study 3d mirror symmetry, which when pushed
+through this equivalence has implications for some aspects of
+sheaf-counting theories, including the (DT) crepant resolution
+conjecture.
