@@ -42,6 +42,14 @@ Dec 22 2021
 
 This talk is an introduction to the recent applications of stability conditions in the geometry of Fano threefold. The first part will focus on the properties of classical moduli spaces, such as moduli spaces of sheaves and Hilbert schemes. I will talk about the applications of stability conditions in proving some smoothness and irreducibility results. Then I will explain the birational categorical Torelli theorem for Gushel-Mukai threefolds. If the time is permitted, I will talk about the Brill-Neother reconstruction of Fano threefolds. This talk is based on a series of joint work with Augustinas Jacovskis, Xun Lin, and Shizhuo Zhang.
 
+## Ying Xie (Fudan)
+
+Jan 5 2022
+
+### Cyclic covering of projective spaces and matrix factorizations
+
+In this talk, I will discuss the matrix factorization categories associated to the cyclic coverings of projective spaces. I will derive a semi-orthogonal decomposition of the equivariant matrix factorization category of the covering space in terms of matrix factorizations categories of the branched loci.
+
 ## Fei Xie (Edinburgh)
 
 Jan 26 2022
@@ -50,10 +58,10 @@ Jan 26 2022
 
 The residual category (or the Kuznetsov component) of a quadric surface bundles is the non-trivial component in the derived category. It is equivalent to the twisted derived category of a double cover over the base when the quadric surface bundle has simple degeneration (fibers have corank at most 1). I will consider quadric surface bundles with fibers of corank at most 2 and describe their residual categories as (twisted) derived categories of some scheme in two situations: (1) when the bundle has a smooth section; (2) when the base is a surface and both the total space and base are smooth. As an application, I will also describe the residual categories of certain complete intersections of quadrics.
 
-## Ying Xie (Fudan)
+## Genki Oouchi
 
-Jan 5 2022
+Mar 22 2022
 
-### Cyclic covering of projective spaces and matrix factorizations
+### Perverse schobers and Orlov equivalences
 
-In this talk, I will discuss the matrix factorization categories associated to the cyclic coverings of projective spaces. I will derive a semi-orthogonal decomposition of the equivariant matrix factorization category of the covering space in terms of matrix factorizations categories of the branched loci.
+A perverse schober is a categorification of perverse sheaves proposed by Kapranov-Schechtman. In this talk, I would like to construct some examples of perverse schobers on the Riemann sphere using derived categories of Calabi-Yau hypersurfaces and Orlov equivalences.
