@@ -39,11 +39,11 @@ Mar 17 2022
 Donaldson--Thomas theory was conceived as a method of counting certain sheaves in Calabi-Yau threefolds, which are supposed to encode 'BPS numbers' in string theory. More recent developments have led to broader, refined versions of this theory, which produce motivic or cohomological invariants from moduli spaces of semistable objects in the derived category.
 In this talk I will focus on DT theory for crepant resolutions of compound Du-Val singularities, which include threefold flops, as well as some divisor-to-curve contractions and quotient singularities. I will explain how one can determine the moduli of semistable objects in this setting via a tilting method that is governed by Dynkin diagram combinatorics. Using this, I will show that the motivic incarnations of the BPS numbers vanish for K-theory classes outside an associated root lattice, and exhibit additional symmetries among these invariants. To make this explicit, I will use the example of a dihedral quotient singularity, for which the invariants can be fully calculated.
 
-## Denis Nesterov
+## Denis Nesterov (Bonn)
 
 Mar 24 2022
 
-### Sheaves, Quasimaps, Maps, (Covers)
+### Sheaves, Quasimaps, Maps, (Covers) 
 
 We will discuss a wall-crossing between Donaldson-Thomas theory
 of a threefold Surface x Curve and Gromov-Witten theory of a moduli space
@@ -54,7 +54,7 @@ be responsible for many correspondences between different enumerative
 theories centred around threefolds of the type Surface x Curve.
 
 
-## Henry Liu
+## Henry Liu (Oxford)
 
 Mar 31 2022
 
@@ -69,3 +69,21 @@ have been used recently to study 3d mirror symmetry, which when pushed
 through this equivalence has implications for some aspects of
 sheaf-counting theories, including the (DT) crepant resolution
 conjecture.
+
+
+## Carl Lian (Humboldt-Universität zu Berlin)
+
+Apr 7 2022
+
+### Curve-counting with fixed domain (“Tevelev degrees”)
+
+We will consider the following problem: if (C,x_1,...,x_n) is a fixed general
+pointed curve, and X is a fixed target variety with general points y_1,...,y_n,
+then how many maps f:C -> X in a given homology class are there, such that
+f(x_i)=y_i? When considered virtually in Gromov-Witten theory, the answer may be
+expressed in terms of the quantum cohomology of X, leading to explicit formulas
+in some cases (Buch-Pandharipande). The geometric question is more subtle,
+though in the presence of sufficient positivity, it is expected that the virtual
+answers are enumerative. I will give an overview of recent progress on various
+aspects of this problem, including joint work with Farkas, Pandharipande, and
+Cela, as well as work of other authors.
