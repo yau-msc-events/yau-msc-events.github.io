@@ -10,7 +10,7 @@ Organizers: Marc Besson, Will Donovan
 
 # Talks
 
-## Emily Bain
+## Emily Bain (Berkeley, Yau MSC)
 
 Wed Apr 6
 
@@ -21,3 +21,10 @@ A dimer model is a probability distribution on the set of perfect matchings on a
 In this talk, we will give an introduction to dimer models and describe the Kasteleyn solution for computing correlation functions. Then we will give some examples of models with a solid and liquid phase, before introducing the two-periodic weighted Aztec diamond, which is one of the simplest models to exhibit a gas phase. Finally, we will talk about what happens as we shrink the gas region to a point in a specific limit.
 
 This is an introductory talk. No background knowledge is required.
+
+## Koji Shimizu (Berkeley)
+
+Wed Apr 13 
+
+### TBA
+
