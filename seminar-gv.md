@@ -70,25 +70,19 @@ Mar 30
 
 References: [J. A. Chen and C. D. Hacon, Characterization of abelian varieties, Invent. Math. 143 (2001), no. 2, 435–447.](https://arxiv.org/pdf/math/9903184.pdf)
 
-## Zhong Yiming
-
-April 6
-
-### Singularities of theta divisors on principally polarized abelian varieties.
-
-References: [L. Ein and R. Lazarsfeld, Singularities of theta divisors and the birational geometry of irregular varieties, J. Amer. Math. Soc. 10 (1997), no. 1, 243258.](https://www.ams.org/journals/jams/1997-10-01/S0894-0347-97-00223-3/S0894-0347-97-00223-3.pdf)
 
 ## Wang Bin
 
-April 13
+April 6
 
 ### Inequalities among Hodge numbers of irregular varieties.
 
 References: [Popa](https://people.math.harvard.edu/~mpopa/papers/cdf.pdf)
 
+
 ## Yu Chenglong
 
-April 20
+April 13
 
 ### M-regularity on abelian varieties.
 
