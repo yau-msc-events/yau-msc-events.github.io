@@ -77,6 +77,46 @@ Ahsan Z. Khan, Gregory W. Moore
 
 [2010.11837 [hep-th]](https://arxiv.org/abs/2010.11837)
 
+
+
+## Perverse schobers
+
+### KS
+
+* Perverse Schobers
+
+M. Kapranov and V. Schechtman
+
+[arXiv:1411.2772](https://arxiv.org/abs/1411.2772)
+
+### KSS
+
+* Perverse schobers and the Algebra of the Infrared
+
+M. Kapranov, Y. Soibelman and L. Soukhanov
+
+[arXiv:2011.00845](https://arxiv.org/abs/2011.00845)
+
+
+## Stability conditions
+
+
+### BS
+
+* Quadratic differentials as stability conditions
+
+Tom Bridgeland and Ivan Smith
+
+[arXiv:1302.7030](https://arxiv.org/abs/1302.7030)
+
+### H
+
+* 3-d Calabi--Yau categories for Teichmüller theory
+
+Fabian Haiden
+
+[arXiv:2104.06018](https://arxiv.org/abs/2104.06018)
+
 ### HKS
 
 * Spectral networks and stability conditions for Fukaya categories with coefficients
@@ -86,14 +126,10 @@ Fabian Haiden, Ludmil Katzarkov, Carlos Simpson
 [arXiv:2112.13623](https://arxiv.org/abs/2112.13623)
 
 
-## Other areas
-
-
-* Fukaya-Seidel categories
 
 * wrapped Fukaya category 
 
-* perverse sheaves vs perverse schobers
+* perverse sheaves vs 
 
 
 
