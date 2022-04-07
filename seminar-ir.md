@@ -127,12 +127,6 @@ Fabian Haiden, Ludmil Katzarkov, Carlos Simpson
 
 
 
-* wrapped Fukaya category 
-
-* perverse sheaves vs 
-
-
-
 # Talks
 
 ## Speaker
