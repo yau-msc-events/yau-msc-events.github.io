@@ -10,6 +10,12 @@ Organizers: Marc Besson, Will Donovan
 
 Some talks are posted on [researchseminars.org](https://researchseminars.org/seminar/HubHI).
 
+We have been using the following format, to promote conversation in online setting.
+
+* 20 minute talk (introduction)
+* 10 minute discussion
+* 30 minute talk (continued)
+
 # Talks
 
 ## Emily Bain (Berkeley, Yau MSC)
