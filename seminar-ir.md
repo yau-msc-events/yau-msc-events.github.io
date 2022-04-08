@@ -10,6 +10,13 @@ Organizers: Will Donovan, Mauricio Romo
 
 # References
 
+## Schedule (tentative)
+
+* Thu Apr 28: Mauricio Romo
+* Thu May 5: Mauricio Romo
+* Thu May 12: Will Donovan
+* ...
+
 ## Key references
 
 ### GMW
@@ -98,7 +105,7 @@ M. Kapranov, Y. Soibelman and L. Soukhanov
 [arXiv:2011.00845](https://arxiv.org/abs/2011.00845)
 
 
-## Stability conditions
+## Stability conditions, cluster varieties
 
 
 ### BS
@@ -108,6 +115,15 @@ M. Kapranov, Y. Soibelman and L. Soukhanov
 Tom Bridgeland and Ivan Smith
 
 [arXiv:1302.7030](https://arxiv.org/abs/1302.7030)
+
+### A
+
+* Categorified canonical bases and framed BPS states
+
+Dylan Allegretti
+
+[arXiv:1806.10394](https://arxiv.org/abs/1806.10394)
+[SpringerLink](https://link.springer.com/content/pdf/10.1007/s00029-019-0518-3.pdf)
 
 ### H
 
