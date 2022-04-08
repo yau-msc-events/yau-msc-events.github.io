@@ -8,6 +8,8 @@ An informal seminar to connect researchers in Beijing and elsewhere.
 
 Organizers: Marc Besson, Will Donovan
 
+Some talks are posted on [researchseminars.org](https://researchseminars.org/seminar/HubHI).
+
 # Talks
 
 ## Emily Bain (Berkeley, Yau MSC)
