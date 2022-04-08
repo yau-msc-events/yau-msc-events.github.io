@@ -26,5 +26,6 @@ This is an introductory talk. No background knowledge is required.
 
 Wed Apr 13 
 
-### TBA
+### Introduction to p-adic geometry
 
+This talk is a general introduction to p-adic geometry and p-adic Hodge theory. We will discuss the Legendre family of elliptic curves and the Drinfeld half-plane to see some interesting features of the p-adic setup.
