@@ -82,7 +82,7 @@ References: [Popa](https://people.math.harvard.edu/~mpopa/papers/cdf.pdf)
 
 ## Yu Chenglong
 
-April 13
+April 20
 
 ### M-regularity on abelian varieties.
 
