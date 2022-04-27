@@ -12,9 +12,9 @@ Organizers: Will Donovan, Mauricio Romo
 
 ## Schedule (tentative)
 
-* Thu Apr 28: Mauricio Romo
-* Thu May 5: Mauricio Romo
-* Thu May 12: Will Donovan
+* Thu May 12: Mauricio Romo
+* Thu May 19: Mauricio Romo
+* Thu May 26: Will Donovan
 * ...
 
 ## Key references
