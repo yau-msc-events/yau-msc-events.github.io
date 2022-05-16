@@ -87,3 +87,11 @@ though in the presence of sufficient positivity, it is expected that the virtual
 answers are enumerative. I will give an overview of recent progress on various
 aspects of this problem, including joint work with Farkas, Pandharipande, and
 Cela, as well as work of other authors.
+
+## Yalong Cao (RIKEN)
+
+May 19 2022
+
+### Gopakumar-Vafa type invariants of holomorphic symplectic 4-folds
+
+Abstract: Gromov-Witten invariants of holomorphic symplectic 4-folds vanish and one can consider the corresponding reduced theory. In this talk, we will explain a definition of Gopakumar-Vafa type invariants for such a reduced theory. These invariants are conjectured to be integers and have alternative interpretations using sheaf theoretic moduli spaces. Our conjecture is proved for the product of two K3 surfaces, which naturally leads to a closed formula of Fujiki constants of Chern classes of tangent bundles of Hilbert schemes of points on K3 surfaces. On a very general holomorphic symplectic 4-folds of K3^[2] type, our conjecture provides a Yau-Zaslow type formula for the number of isolated genus 2 curves of minimal degree. Based on joint works with Georg Oberdieck and Yukinobu Toda.
