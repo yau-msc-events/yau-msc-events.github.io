@@ -12,7 +12,7 @@ Organizers: Will Donovan, Mauricio Romo
 
 ## Schedule (tentative)
 
-* Thu May 12: Mauricio Romo
+* Thu May 12: Mauricio Romo ([notes](https://cloud.tsinghua.edu.cn/f/c728750c2adf43819fe9/?dl=1))
 * Thu May 19: Mauricio Romo
 * Thu May 26: Will Donovan
 * ...
