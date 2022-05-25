@@ -95,3 +95,11 @@ May 19 2022
 ### Gopakumar-Vafa type invariants of holomorphic symplectic 4-folds
 
 Abstract: Gromov-Witten invariants of holomorphic symplectic 4-folds vanish and one can consider the corresponding reduced theory. In this talk, we will explain a definition of Gopakumar-Vafa type invariants for such a reduced theory. These invariants are conjectured to be integers and have alternative interpretations using sheaf theoretic moduli spaces. Our conjecture is proved for the product of two K3 surfaces, which naturally leads to a closed formula of Fujiki constants of Chern classes of tangent bundles of Hilbert schemes of points on K3 surfaces. On a very general holomorphic symplectic 4-folds of K3^[2] type, our conjecture provides a Yau-Zaslow type formula for the number of isolated genus 2 curves of minimal degree. Based on joint works with Georg Oberdieck and Yukinobu Toda.
+
+## Moreira Miguel (ETH Zurich)
+
+May 26 2022
+
+### Weyl symmetry for curve counting invariants via spherical twists
+
+Let X be a Calabi-Yau 3-fold containing a ruled surface W and let B be the homology class of the lines in the ruling. Physics suggests that curve counting on X should satisfy some symmetry relating  curves in classes β and β’=β+(W.β)B. In this talk I’ll explain how to make such a symmetry precise with a new rationality result for the Pandharipande-Thomas invariants of X.  Mathematically, the symmetry is explained by a certain involution of the  derived category of X constructed using a particular spherical functor; our proof is an instance of the general principle that  automorphisms of the derived category should constrain enumerative invariants. This is joint work with Tim Buelles and it is highly  inspired in the proof of rationality for the PT generating series of an orbifold by Beentjes-Calabrese-Rennemo.
