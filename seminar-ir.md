@@ -13,13 +13,13 @@ Organizers: Will Donovan, Mauricio Romo
 ## Schedule
 
 * Thu May 12: Mauricio Romo
-  - Notes ([view](https://cloud.tsinghua.edu.cn/f/c728750c2adf43819fe9),[download](https://cloud.tsinghua.edu.cn/f/c728750c2adf43819fe9/?dl=1))
-* Thu May 19: Mauricio Romo ([notes](https://cloud.tsinghua.edu.cn/f/4ef6ec2e0fde42ab970e/?dl=1))
-  - Notes ([view](https://cloud.tsinghua.edu.cn/f/4ef6ec2e0fde42ab970e),[download](https://cloud.tsinghua.edu.cn/f/4ef6ec2e0fde42ab970e/?dl=1))
-* Wed May 25: Mauricio Romo ([notes](https://cloud.tsinghua.edu.cn/f/338c19e83abe44fb95f5/?dl=1))
-  - Notes ([view](https://cloud.tsinghua.edu.cn/f/338c19e83abe44fb95f5),[download](https://cloud.tsinghua.edu.cn/f/338c19e83abe44fb95f5/?dl=1))
-* Wed Jun 1: Will Donovan ([preview](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514/?dl=1))
-  - Preview ([view](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514),[download](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514/?dl=1))
+  - Notes ([view](https://cloud.tsinghua.edu.cn/f/c728750c2adf43819fe9), [download](https://cloud.tsinghua.edu.cn/f/c728750c2adf43819fe9/?dl=1))
+* Thu May 19: Mauricio Romo
+  - Notes ([view](https://cloud.tsinghua.edu.cn/f/4ef6ec2e0fde42ab970e), [download](https://cloud.tsinghua.edu.cn/f/4ef6ec2e0fde42ab970e/?dl=1))
+* Wed May 25: Mauricio Romo
+  - Notes ([view](https://cloud.tsinghua.edu.cn/f/338c19e83abe44fb95f5), [download](https://cloud.tsinghua.edu.cn/f/338c19e83abe44fb95f5/?dl=1))
+* Wed Jun 1: Will Donovan
+  - Preview ([view](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514), [download](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514/?dl=1))
 * ...
 
 ## Key references
