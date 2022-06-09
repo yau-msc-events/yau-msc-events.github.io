@@ -22,6 +22,7 @@ Organizers: Will Donovan, Mauricio Romo
   - Preview ([view](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514), [download](https://cloud.tsinghua.edu.cn/f/c55f2e3ab10740e8b514/?dl=1))
   - Notes ([view](https://cloud.tsinghua.edu.cn/f/f3eb6351ffd0491bb8c3), [download](https://cloud.tsinghua.edu.cn/f/f3eb6351ffd0491bb8c3/?dl=1))
 * Wed Jun 8: Will Donovan
+  - Notes ([view](https://cloud.tsinghua.edu.cn/f/f496d1493ad1409b9afe), [download](https://cloud.tsinghua.edu.cn/f/f496d1493ad1409b9afe/?dl=1))
 * ...
 
 ## Key references
