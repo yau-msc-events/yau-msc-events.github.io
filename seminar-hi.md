@@ -6,7 +6,7 @@ code: HI
 
 An informal seminar to connect researchers in Beijing and elsewhere.
 
-Organizers: Will Donovan
+Organizer: Will Donovan
 
 Some talks are posted on [researchseminars.org](https://researchseminars.org/seminar/HubHI).
 
