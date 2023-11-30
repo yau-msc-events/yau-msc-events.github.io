@@ -20,7 +20,7 @@ We sometimes use the following format, to promote conversation in online setting
 
 ## Emily Bain (Berkeley, Yau MSC)
 
-Wed Apr 6
+Wed Apr 6 2022
 
 ### Dimer models and the two-periodic weighted Aztec diamond
 
@@ -32,8 +32,16 @@ This is an introductory talk. No background knowledge is required.
 
 ## Koji Shimizu (Berkeley)
 
-Wed Apr 13 
+Wed Apr 13 2022
 
 ### Introduction to p-adic geometry
 
 This talk is a general introduction to p-adic geometry and p-adic Hodge theory. We will discuss the Legendre family of elliptic curves and the Drinfeld half-plane to see some interesting features of the p-adic setup.
+
+## 付鑫 FU Xin (BIMSA)
+
+Tue Dec 5 2023
+
+### The quotient spaces of moment-angle complexes
+
+Buchstaber-Panov introduced the notion of the moment-angle complex Z. It is defined by a union of certain product spaces of discs and circles with a natural action of a torus T. Topologically, a moment-angle complex allows us to understand a simplicial toric variety as its quotient Z/H, where H is a closed subgroup of T. The computation of the cohomology groups and cup products for such quotient spaces involves using techniques from combinatorics, algebras, and homotopy theory with applications in other fields. This talk summarises known results and problems in the research field of toric topology and reports on recent progress.
