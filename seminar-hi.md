@@ -6,11 +6,11 @@ code: HI
 
 An informal seminar to connect researchers in Beijing and elsewhere.
 
-Organizers: Marc Besson, Will Donovan
+Organizers: Will Donovan
 
 Some talks are posted on [researchseminars.org](https://researchseminars.org/seminar/HubHI).
 
-We have been using the following format, to promote conversation in online setting.
+We sometimes use the following format, to promote conversation in online setting.
 
 * 20 minute talk (introduction)
 * 10 minute discussion
