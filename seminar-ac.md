@@ -6,6 +6,8 @@ code: AC
 
 An informal seminar to connect researchers in Africa, China and elsewhere.
 
+Focussing on pure mathematics and related topics.
+
 Organizer: Will Donovan
 
 We plan to use the following format, to promote conversation in online setting.
