@@ -8,15 +8,17 @@
 {% for node in pages_list %}
  {% if node.title != null %}
   {% if node.layout == "seminarpage" %}
-   <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-   Code: {{ node.code }}
-   <p></p>
+   {% if node.archived != true %}
+    <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+    Code: {{ node.code }}
+    <p></p>
+   {% endif %}
   {% endif %}
  {% endif %}
 {% endfor %}
 </ul>
 
-<h1>Archive</h1>
+<h2>Archive</h2>
 
 <ul>
 {% assign pages_list = site.pages | sort:"name" %}

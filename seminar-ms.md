@@ -2,6 +2,7 @@
 layout: seminarpage
 title: Mirror symmetry group
 code: MS
+archived: yes
 ---
 
 Topic: Research discussions between researchers in Beijing and UK.
