@@ -2,6 +2,7 @@
 layout: seminarpage
 title: Generic vanishing
 code: GV
+archived: yes
 ---
 
 A learning seminar on generic vanishing.
