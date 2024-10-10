@@ -19,6 +19,12 @@ We plan to use the following format, to promote conversation in online setting.
 * 10 minute discussion
 * 20 minute talk (continued)
 
+## Participants
+
+* Brian Makonzi, Makerere University
+* ...
+
+
 # Talks
 
 TBD
