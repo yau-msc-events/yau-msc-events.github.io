@@ -26,9 +26,9 @@ We plan to use the following format, to promote conversation in online setting.
 
 # Talks
 
-West Africa Time: 9.30am
-East Africa Time: 11.30am
-China time: 4.30pm	
+* West Africa Time: 9.30am
+* East Africa Time: 11.30am
+* China time: 4.30pm	
 
 ## TBD
 
