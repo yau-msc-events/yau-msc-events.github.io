@@ -22,9 +22,22 @@ We plan to use the following format, to promote conversation in online setting.
 ## Participants
 
 * Brian Makonzi, Makerere University
-* ...
-
+* Elizabeth Mrema, Dar es Salaam, Tanzania	
 
 # Talks
 
-TBD
+West Africa Time: 9.30am
+East Africa Time: 11.30am
+China time: 4.30pm	
+
+## TBD
+
+Nov 14 2024
+
+## TBD
+
+Nov 21 2024
+
+## TBD
+
+Nov 28 2024
