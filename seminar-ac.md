@@ -21,11 +21,13 @@ We plan to use the following format, to promote conversation in online setting.
 
 ## Participants
 
+* Tagay Takele Fikadu, Ethiopia 
+* Bukayaw	Kindu, Debre Markos University
 * Brian Makonzi, Makerere University
 * Elizabeth Mrema, Dar es Salaam, Tanzania	
-* Bukayaw	Kindu, Debre Markos University
 * Belela Samuel, Ethiopia
 * Chala	Tena Moti, Dire Dawa, Ethiopia
+* Girma	Workneh, Ethiopia
 * Beza Zeleke, Ethiopia
 
 # Talks
