@@ -21,12 +21,14 @@ We plan to use the following format, to promote conversation in online setting.
 
 ## Participants
 
+* Lakachew Ayal Chekol, Woldia University, Ethiopia
 * Tagay Takele Fikadu, Ethiopia 
 * Bukayaw	Kindu, Debre Markos University
 * Brian Makonzi, Makerere University
 * Elizabeth Mrema, Dar es Salaam, Tanzania	
 * Belela Samuel, Ethiopia
 * Chala	Tena Moti, Dire Dawa, Ethiopia
+* Tilahun Walle, Ethiopia
 * Girma	Workneh, Ethiopia
 * Beza Zeleke, Ethiopia
 
