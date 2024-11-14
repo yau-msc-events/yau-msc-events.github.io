@@ -34,18 +34,22 @@ We plan to use the following format, to promote conversation in online setting.
 
 # Talks
 
-* West Africa Time: 9.30am
-* East Africa Time: 11.30am
-* China time: 4.30pm	
+* West Africa Time: 9am
+* East Africa Time: 11am
+* China time: 4pm	
 
-## TBD
-
-Nov 14 2024
-
-## TBD
-
-Nov 21 2024
-
-## TBD
+## Herbert Batte
 
 Nov 28 2024
+
+## Elizabeth Mrema
+
+Dec 5 2024
+
+## TBD
+
+Dec 12 2024
+
+## TBD
+
+Dec 19 2024
