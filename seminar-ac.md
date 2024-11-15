@@ -42,6 +42,8 @@ We plan to use the following format, to promote conversation in online setting.
 
 Nov 28 2024
 
+![Alt text](./files/talk_HerbertBatte.jpg "Image Title")
+
 ## Elizabeth Mrema
 
 Dec 5 2024
