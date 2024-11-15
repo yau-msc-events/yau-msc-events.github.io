@@ -38,11 +38,13 @@ We plan to use the following format, to promote conversation in online setting.
 * East Africa Time: 11am
 * China time: 4pm	
 
-## Herbert Batte
+## Herbert Batte (Makerere University / Wits University, Johannesburg)
 
 Nov 28 2024
 
-![Alt text](./files/talk_HerbertBatte.jpg "Image Title")
+On the Largest Prime Factor of the k-generalized Lucas Numbers
+
+![This work is part of a joint collaboration with Florian Luca.](./files/talk_HerbertBatte.jpg "Abstract")
 
 ## Elizabeth Mrema
 
