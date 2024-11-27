@@ -25,8 +25,10 @@ We plan to use the following format, to promote conversation in online setting.
 * Tagay Takele Fikadu, Ethiopia 
 * Bukayaw	Kindu, Debre Markos University
 * Brian Makonzi, Makerere University
-* Elizabeth Mrema, Dar es Salaam, Tanzania	
+* Elizabeth Mrema, Dar es Salaam, Tanzania
+* Caroline Namanya, Uganda	
 * Belela Samuel, Ethiopia
+* Kefale Liche Mandida, Addis Ababa University, Ethiopia
 * Chala	Tena Moti, Dire Dawa, Ethiopia
 * Tilahun Walle, Ethiopia
 * Girma	Workneh, Ethiopia
