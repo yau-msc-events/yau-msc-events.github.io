@@ -22,6 +22,7 @@ We plan to use the following format, to promote conversation in online setting.
 ## Participants
 
 * Lakachew Ayal Chekol, Woldia University, Ethiopia
+* Herbert	Batte,	Makerere University / Wits University, Johannesburg
 * Tagay Takele Fikadu, Ethiopia 
 * Bukayaw	Kindu, Debre Markos University
 * Brian Makonzi, Makerere University
@@ -51,6 +52,10 @@ On the Largest Prime Factor of the k-generalized Lucas Numbers
 ## Elizabeth Mrema
 
 Dec 5 2024
+
+Exploration of Cyclotomic Extensions
+
+![This is a joint work with Sophie Marques from Stellenbosch University.](./files/241205-Elizabeth-Mrema.jpg "Abstract")
 
 ## TBD
 
