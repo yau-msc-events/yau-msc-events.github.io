@@ -25,11 +25,13 @@ We plan to use the following format, to promote conversation in online setting.
 * Herbert	Batte,	Makerere University / Wits University, Johannesburg
 * Tagay Takele Fikadu, Ethiopia 
 * Bukayaw	Kindu, Debre Markos University
+* Annet	Kyomuhangi, Busitema University, Tororo, Uganda
+* Kefale Liche Mandida, Addis Ababa University, Ethiopia 
 * Brian Makonzi, Makerere University
 * Elizabeth Mrema, Dar es Salaam, Tanzania
 * Caroline Namanya, Uganda	
+* Ismail Opio, Lira University, Uganda
 * Belela Samuel, Ethiopia
-* Kefale Liche Mandida, Addis Ababa University, Ethiopia
 * Chala	Tena Moti, Dire Dawa, Ethiopia
 * Tilahun Walle, Ethiopia
 * Girma	Workneh, Ethiopia
