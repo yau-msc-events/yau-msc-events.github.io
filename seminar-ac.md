@@ -20,6 +20,7 @@ We plan to use the following format, to promote conversation in online setting.
 
 ## Participants
 
+* Walle Tilahun, Mizan Tepi University, Ethiopia
 * Lakachew Ayal Chekol, Woldia University, Ethiopia
 * Herbert	Batte,	Makerere University / Wits University, Johannesburg
 * Tagay Takele Fikadu, Ethiopia 
