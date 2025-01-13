@@ -21,7 +21,7 @@ More importantly, I explicitly described generators of its kernel. In the specia
 
 A similar result was proved last year by  A. Kuznetsov and E. Shinder, and simultaneously by another group of mathematicians*, in the case of nodal singularities. I will explain the main differences between nodal and cuspidal singularities in this particular setting. 
 
-* W. Cattani, F. Giovenzana, S. Liu, P. Magni, L. Martinelli, L. Pertusi, J. Song.
+\* W. Cattani, F. Giovenzana, S. Liu, P. Magni, L. Martinelli, L. Pertusi, J. Song.
 
 ## Rudradip Biswas (Manchester)
 
