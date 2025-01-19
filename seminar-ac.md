@@ -8,7 +8,7 @@ An informal seminar to connect researchers in Africa, China and elsewhere.
 
 Focussing on pure mathematics and related topics.
 
-Welcome to [register](https://forms.gle/FZ2CMXZU3Avm2PsK7) for updates.
+Welcome to register for updates: from [China](https://wj.qq.com/s2/17722269/1b09/) / [elsewhere](https://forms.gle/FZ2CMXZU3Avm2PsK7).
 
 Organizer: Will Donovan
 
