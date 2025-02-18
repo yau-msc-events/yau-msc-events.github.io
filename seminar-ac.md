@@ -61,8 +61,8 @@ Exploration of Cyclotomic Extensions
 
 ## TBD
 
-Dec 12 2024
+Mar 5 2025
 
 ## TBD
 
-Dec 19 2024
+Mar 12 2025
