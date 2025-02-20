@@ -59,9 +59,13 @@ Exploration of Cyclotomic Extensions
 
 ![This is a joint work with Sophie Marques from Stellenbosch University.](./files/241205-Elizabeth-Mrema.jpg "Abstract")
 
-## TBD
+## SUN Youran 孙悠然
 
 Mar 5 2025
+
+Phase Transitions in Large Language Models and the O(N) Model
+
+Large language models (LLMs) exhibit unprecedentedly rich scaling behaviors. In physics, scaling behavior is closely related to phase transitions, critical phenomena, and field theory. To investigate the phase transition phenomena in LLMs, we reformulated the Transformer architecture as an O(N) model. Our study reveals two distinct phase transitions corresponding to the temperature used in text generation and the model's parameter size, respectively. The first phase transition enables us to estimate the internal dimension of the model, while the second phase transition is of *higher-depth* and signals the emergence of new capabilities. As an application, the energy of the O(N) model can be used to evaluate whether an LLM's parameters are sufficient to learn the training data.
 
 ## TBD
 
