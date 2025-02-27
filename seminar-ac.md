@@ -67,6 +67,12 @@ Phase Transitions in Large Language Models and the O(N) Model
 
 Large language models (LLMs) exhibit unprecedentedly rich scaling behaviors. In physics, scaling behavior is closely related to phase transitions, critical phenomena, and field theory. To investigate the phase transition phenomena in LLMs, we reformulated the Transformer architecture as an O(N) model. Our study reveals two distinct phase transitions corresponding to the temperature used in text generation and the model's parameter size, respectively. The first phase transition enables us to estimate the internal dimension of the model, while the second phase transition is of *higher-depth* and signals the emergence of new capabilities. As an application, the energy of the O(N) model can be used to evaluate whether an LLM's parameters are sufficient to learn the training data.
 
-## TBD
+## YANG Fang 杨芳
 
 Mar 12 2025
+
+Quantum cluster algebras associated to weighted projective lines
+
+Quantum cluster algebras, introduced by Berenstein and Zelevinsky (2005) as a quantum analog of cluster algebras, provide a framework for better understanding canonical bases in quantum groups. While additive categorification via cluster categories of quivers with potentials is well established for cluster algebras, it remains open for quantum cluster algebras beyond acyclic quivers.
+
+Weighted projective lines and the category of coherent sheaves on them, introduced by Geigle and Lenzing (1987), share many key properties with the categories of representations of acyclic quivers, such as being hereditary and admitting tilting objects. Building on this, we use the category of coherent sheaves on a weighted projective line to provide an additive categorification for the corresponding quantum cluster algebra.
