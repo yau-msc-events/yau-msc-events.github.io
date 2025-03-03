@@ -23,15 +23,18 @@ We plan to use the following format, to promote conversation in online setting.
 * Walle Tilahun, Mizan Tepi University, Ethiopia
 * Lakachew Ayal Chekol, Woldia University, Ethiopia
 * Herbert	Batte,	Makerere University / Wits University, Johannesburg
-* Tagay Takele Fikadu, Ethiopia 
+* Tagay Takele Fikadu, Ethiopia
+* Dennis Kinoti	Gikunda, Stellenbosch University, South Africa
 * Bukayaw	Kindu, Debre Markos University
 * Annet	Kyomuhangi, Busitema University, Tororo, Uganda
 * Kefale Liche Mandida, Addis Ababa University, Ethiopia 
 * Brian Makonzi, Makerere University
 * Elizabeth Mrema, Dar es Salaam, Tanzania
-* Caroline Namanya, Uganda	
+* Caroline Namanya, Uganda
+* Farha	Nazreen, University of Nairobi, Kenya	
 * Ismail Opio, Lira University, Uganda
 * Belela Samuel, Ethiopia
+* David	Ssevviiri, Uganda
 * Chala	Tena Moti, Dire Dawa, Ethiopia
 * Tilahun Walle, Ethiopia
 * Girma	Workneh, Ethiopia
