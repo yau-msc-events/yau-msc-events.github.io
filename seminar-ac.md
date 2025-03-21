@@ -24,7 +24,9 @@ We plan to use the following format, to promote conversation in online setting.
 * Lakachew Ayal Chekol, Woldia University, Ethiopia
 * Herbert	Batte,	Makerere University / Wits University, Johannesburg
 * Tagay Takele Fikadu, Ethiopia
+* Xin GENG 耿鑫, China
 * Dennis Kinoti	Gikunda, Stellenbosch University, South Africa
+* David HUI, China
 * Bukayaw	Kindu, Debre Markos University
 * Annet	Kyomuhangi, Busitema University, Tororo, Uganda
 * Kefale Liche Mandida, Addis Ababa University, Ethiopia 
@@ -35,6 +37,8 @@ We plan to use the following format, to promote conversation in online setting.
 * Ismail Opio, Lira University, Uganda
 * Belela Samuel, Ethiopia
 * David	Ssevviiri, Uganda
+* Haoyu SUN 孙昊宇, China
+* Youran SUN 孙悠然, China
 * Chala	Tena Moti, Dire Dawa, Ethiopia
 * Tilahun Walle, Ethiopia
 * Girma	Workneh, Ethiopia
@@ -79,3 +83,13 @@ Quantum cluster algebras associated to weighted projective lines
 Quantum cluster algebras, introduced by Berenstein and Zelevinsky (2005) as a quantum analog of cluster algebras, provide a framework for better understanding canonical bases in quantum groups. While additive categorification via cluster categories of quivers with potentials is well established for cluster algebras, it remains open for quantum cluster algebras beyond acyclic quivers.
 
 Weighted projective lines and the category of coherent sheaves on them, introduced by Geigle and Lenzing (1987), share many key properties with the categories of representations of acyclic quivers, such as being hereditary and admitting tilting objects. Building on this, we use the category of coherent sheaves on a weighted projective line to provide an additive categorification for the corresponding quantum cluster algebra.
+
+## ZHAO Qixian 赵启弦
+
+Mar 26 2025
+
+A number game, nilpotent orbits, and affine cells
+
+Consider a circle of n+1 integers where one of them is negative and the others are equal to 1. Perform the following algorithm: at each step one chooses a negative number, adds it to adjacent numbers, negates the chosen number, then repeats this process. Does the algorithm terminates? If it does, can we describe the end result?
+
+This problem appears in the following picture in representation theory. Let g be a simple Lie algebra and let g' be its Langlands dual. A classical result of many people (partially Barbasch-Vogan) is a bijection between the set of two-sided cells in the Weyl group W and the set of special nilpotent orbits in g (or g'). Lusztig proved an affine version of this in a very different way, where one considers cells in the affine Weyl group on one side and the set of all nilpotent orbits in g' on the other side. The goal of this talk is to demonstrate that a subset of Lusztig's correspondence can be constructed in the Barbasch-Vogan flavor, and part of the proof can be rephrased as the above combinatorial problem. If time permits, we will discuss its relation to affine Springer fibers and affine vertex algebras. This is based on joint work with Peng Shan and Wenbin Yan.
