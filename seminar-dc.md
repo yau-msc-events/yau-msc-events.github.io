@@ -10,6 +10,14 @@ Organizers: Will Donovan, [Lin Xun](http://linlinsai.github.io/), Zhang Shizhuo
 
 # Talks
 
+## Hao Zhang (Glasgow)
+
+Nov 13 2025
+
+### Crepant (partial) resolutions of cAn​ singularities, contraction algebras, and GV invariants
+
+This talk concerns the birational geometry of cAn​ singularities and their curve-counting invariants through noncommutative methods. I introduce generalised GV invariants for crepant partial resolutions, verify Toda’s formula in this setting, and show these invariants are determined by the isomorphism class of the contraction algebra. Turning to crepant resolutions, I give intrinsic definitions of Type-A potentials on the doubled An​ quiver (with a loop at each vertex). After coordinate changes, these admit a monomialized form and classify all crepant resolutions of cAn​, confirming the Brown–Wemyss Realisation Conjecture; an explicit example shows Donovan–Wemyss fails in the non-isolated case. Building on the correspondence between crepant resolutions and Type-A potentials, I define a filtration on the parameter space that yields numerical constraints on possible GV tuples and an explicit classification for cA2​. Time permitting, I will also mention the n≤3 classification of Type-A loop-free potentials up to isomorphism and derived equivalence, with applications to tame quaternion-type algebras.
+
 ## Céline Fietz (Leiden University)
 
 Jan 15 2025
