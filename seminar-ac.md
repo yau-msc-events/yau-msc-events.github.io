@@ -50,6 +50,14 @@ We plan to use the following format, to promote conversation in online setting.
 * East Africa Time: 11am
 * China time: 4pm	
 
+## Dennis Kinoti Gikunda (Stellenbosch University, South Africa)
+
+Nov 11 2025
+
+From Counting to Distribution: A Statistical View of Integer Partitions
+
+![Abstract](./files/talk_DennisKinotiGikunda_251118.jpg "Abstract")
+
 ## Herbert Batte (Makerere University / Wits University, Johannesburg)
 
 Nov 28 2024
