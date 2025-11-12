@@ -52,7 +52,7 @@ We plan to use the following format, to promote conversation in online setting.
 
 ## Dennis Kinoti Gikunda (Stellenbosch University, South Africa)
 
-Nov 11 2025
+Nov 18 2025
 
 From Counting to Distribution: A Statistical View of Integer Partitions
 
