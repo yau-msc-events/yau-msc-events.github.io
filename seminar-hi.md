@@ -45,3 +45,13 @@ Tue Dec 5 2023
 ### The quotient spaces of moment-angle complexes
 
 Buchstaber-Panov introduced the notion of the moment-angle complex Z. It is defined by a union of certain product spaces of discs and circles with a natural action of a torus T. Topologically, a moment-angle complex allows us to understand a simplicial toric variety as its quotient Z/H, where H is a closed subgroup of T. The computation of the cohomology groups and cup products for such quotient spaces involves using techniques from combinatorics, algebras, and homotopy theory with applications in other fields. This talk summarises known results and problems in the research field of toric topology and reports on recent progress.
+
+## 许容阁 Rongge XU (YMSC)
+
+Tue Apr 7 2026
+
+### LeanCat: Benchmarking Formal Category Theory and Beyond
+
+LeanCat is a benchmark for formal category theory in Lean, designed to probe a broader question: what currently limits AI systems in mathematical reasoning? A central obstacle is the abstraction gap: models can often manage local formal steps, yet still struggle with the deeper structural coherence required by interface-heavy mathematics.
+
+The talk gives a brief account of LeanCat’s design, the main failure modes it reveals, and LeanBridge, a retrieval-based interactive baseline that improves substantially over static prompting while still leaving harder tasks genuinely difficult. It concludes with semantic locking as a more auditable intermediate layer for auto-formalization, and with the broader perspective of moving from isolated formal proofs toward verifiable scientific discovery.
