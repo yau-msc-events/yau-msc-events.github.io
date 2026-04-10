@@ -2,6 +2,7 @@
 layout: seminarpage
 title: Enumerative geometry
 code: EG
+archived: yes
 ---
 
 Topic: Curve counting invariants, birational geometry, moduli spaces, Hall algebras
