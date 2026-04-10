@@ -7,7 +7,7 @@ archived: no
 
 A study group on Hodge atoms.
 
-Organizer: [Marco Rampazzo](https://marcorampazzo.com/)
+Organizer: [Will Donovan](W-Donovan.github.io), [Marco Rampazzo](https://marcorampazzo.com/)
 
 
 Recent developments have brought significant progress to the long-standing problem of irrationality of very general cubic fourfolds. A breakthrough was achieved by Katzarkov, Kontsevich, Pantev and Yu through the introduction of new birational invariants, called Hodge atoms, which combine classical Hodge theory with Gromov–Witten invariants. These invariants arise from the structure of quantum cohomology and exhibit interesting properties under birational transformations such as blowups.
